@@ -23,7 +23,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 **Infra/Tools**<br>
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhooong&layout=compact)
-
 ![juhooong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhooong&show_icons=true&theme=tokyonight)
